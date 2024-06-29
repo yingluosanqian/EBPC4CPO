@@ -1,0 +1,17 @@
+benchmark=anghabench-v1, 1.005/-0.1%
+benchmark=blas-v0, 1.035/3.3%
+benchmark=github-v0, 1.013/1.1%
+benchmark=linux-v0, 1.000/-1.4%
+benchmark=opencv-v0, 1.118/9.7%
+benchmark=poj104-v1, 0.964/-5.9%
+benchmark=tensorflow-v0, 1.080/6.8%
+benchmark=clgen-v0, 1.052/4.7%
+benchmark=csmith-v0, 1.254/11.4%
+benchmark=llvm-stress-v0, 1.048/3.1%
+benchmark=cbench-v1, 1.021/1.7%
+benchmark=chstone-v0, 1.106/9.2%
+benchmark=mibench-v1, 1.023/1.9%
+benchmark=npb-v0, 1.110/7.8%
+benchmark=codeforces, 1.154/2.0%
+benchmark=atcoder, 0.989/-4.4%
+geo_mean=1.058 arith_mean=3.2%

@@ -1,0 +1,11 @@
+benchmark=anghabench-v1, 0.975/-3.6%
+benchmark=blas-v0, 0.975/-2.6%
+benchmark=clgen-v0, 1.014/0.3%
+benchmark=github-v0, 1.008/0.8%
+benchmark=linux-v0, 1.004/0.4%
+benchmark=opencv-v0, 1.018/1.5%
+benchmark=poj104-v1, 0.913/-10.5%
+benchmark=tensorflow-v0, 0.995/-0.7%
+benchmark=csmith-v0, 1.022/-50.8%
+benchmark=llvm-stress-v0, 0.938/-9.1%
+geo_mean=0.986 arith_mean=-7.4%
