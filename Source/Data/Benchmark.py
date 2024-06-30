@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../')
 import random
 import statistics
 
@@ -178,10 +180,10 @@ class Benchmark:
         with open(f'{dir_path}/iter_{iteration}_myset.txt', 'w') as f:
             for pss in self.pss_list:
                 f.write(f'{pss.sequence}\n')
-        dir_path = f'{get_root_path()}/Result/{algo_name}/{self.name}/'
-        with open(f'{dir_path}/iter_{iteration}_myset_with_benchmark.txt', 'w') as f:
-            for pss in self.pss_list:
-                f.write(f'{pss.sequence}&{pss.name}\n')
+        # dir_path = f'{get_root_path()}/Result/{algo_name}/{self.name}/'
+        # with open(f'{dir_path}/iter_{iteration}_myset_with_benchmark.txt', 'w') as f:
+        #     for pss in self.pss_list:
+        #         f.write(f'{pss.sequence}&{pss.name}\n')
 
     def load_from_db(self, table_name: str) -> bool:
         """

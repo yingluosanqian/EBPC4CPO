@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../../')
 import copy
 from Source.Data.Benchmark import Benchmark
 from Source.Data.BoostPassSet import BoostPassSet

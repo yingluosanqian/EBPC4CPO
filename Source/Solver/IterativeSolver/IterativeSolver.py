@@ -1,5 +1,6 @@
+import sys
+sys.path.append('./../../../')
 import copy
-
 from Source.Data.Benchmark import Benchmark
 from Source.Data.BoostPassSet import BoostPassSet
 from Source.Data.Coreset import Coreset
@@ -64,6 +65,8 @@ class IterativeSolver:
             # Log.
             print(f'benchmark saving...')
             self.benchmark.save(algo_name, iteration)
+            print(f'benchmark export seqs...')
+            self.benchmark.export_seqs(algo_name, iteration)
             print(f'boost structure saving...')
             bs.save(algo_name, iteration, self.benchmark.name)  # save bpc set
 

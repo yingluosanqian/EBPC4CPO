@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../')
 from pathlib import Path
 
 from Source.Data.Benchmark import Benchmark
@@ -25,7 +27,7 @@ class EvalPrediction:
 
 
 if __name__ == '__main__':
-    for coreset_name in ['bpc_coreset', 'nvp_coreset_1', 'nvp_coreset_2', 'gens_coreset', 'icmc_coreset']:
+    for coreset_name in ['bpc_coreset', 'nvp_coreset_1', 'nvp_coreset_2', 'gens_coreset']:
         for feature_type in ['Autophase', 'InstCountNorm']:
             train_eval = EvalPrediction(
                 Benchmark('__train', '__train'),

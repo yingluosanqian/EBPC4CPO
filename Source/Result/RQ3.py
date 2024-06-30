@@ -1,10 +1,13 @@
+import sys
+
+sys.path.append('./../../')
 import copy
 import random
 from pathlib import Path
 
 
 import matplotlib.pyplot as plt
-plt.rcParams['font.sans-serif'] = ['Times New Roman']
+# plt.rcParams['font.sans-serif'] = ['Times New Roman']
 import numpy as np
 
 from Source.Data.Benchmark import Benchmark
@@ -45,9 +48,9 @@ def abla_1():
     data_base = load_50_result(f'base', f'geo_mean')
     data_no_trimming = load_50_result(f'no_trimming', f'geo_mean')
     data_no_sharing = load_50_result(f'no_removal', f'geo_mean')
-    print(data_base[ITERATIONS - 1])
-    print(data_no_trimming[ITERATIONS - 1])
-    print(data_no_sharing[ITERATIONS - 1])
+    print('base (GMeanOverOz):', data_base[ITERATIONS - 1])
+    print('-trimming (GMeanOverOz):', data_no_trimming[ITERATIONS - 1])
+    print('-removal (GMeanOverOz):', data_no_sharing[ITERATIONS - 1])
 
 
 def solve_all_res(pss, coreset, sql_list):
@@ -91,10 +94,10 @@ def my_eval(temp_res, test_benchmark, dataset_benchmark: {}, filepath):
 
 
 def abla_2_1(iter):
-    seqs = read_coreset_to_file(f'base/__it_train/iter_{iter}_myset.txt')
+    seqs = read_coreset_to_file(f'base/__it_train/iter_{iter-1}_myset.txt')
     train_benchmark = Benchmark('__it_train', '__it_train')
     test_benchmark = Benchmark('__test', '__test')
-    coreset_path = Path() Path('abla_coreset_gen')
+    coreset_path = Path('abla_coreset_gen')
     coreset_path.mkdir(parents=True, exist_ok=True)
     coreset_gen = CoresetGen(copy.deepcopy(train_benchmark), seqs=seqs)
 
@@ -199,6 +202,6 @@ if __name__ == '__main__':
     args = parse()
 
     abla_1()
-    abla_2_1(args.i)
+    abla_2_1(args.iter)
     abla_2_2()
     pass

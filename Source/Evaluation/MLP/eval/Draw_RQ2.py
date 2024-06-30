@@ -1,10 +1,13 @@
+import sys
+sys.path.append('./../../../../')
+
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import font_manager
 from matplotlib.font_manager import FontProperties
 from Source.Util.util import get_root_path
 
-plt.rcParams['font.sans-serif'] = ['Times New Roman']
+# plt.rcParams['font.sans-serif'] = ['Times New Roman']
 
 
 def load_result(coreset_name, feature_name, model_type):

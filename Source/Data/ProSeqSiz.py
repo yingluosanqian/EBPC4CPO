@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../')
 
 import math
 from compiler_gym.datasets import Benchmark

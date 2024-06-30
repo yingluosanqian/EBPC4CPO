@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../../')
 import glob
 import os
 import statistics

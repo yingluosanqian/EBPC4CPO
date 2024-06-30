@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../')
 import copy
 from dataclasses import dataclass
 
@@ -102,12 +104,3 @@ class Test:
 
     def __iter__(self):
         yield from self.ls
-
-
-if __name__ == '__main__':
-    # bs = BoostPassSet([[1], [1], [1], [1, 2]])
-    # print(bs)
-    test = Test()
-    for i in test:
-        print(i)
-    pass

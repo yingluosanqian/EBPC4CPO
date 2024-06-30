@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../../')
 
 from Source.Util.util import get_root_path
 

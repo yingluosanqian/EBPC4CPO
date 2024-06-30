@@ -1,0 +1,498 @@
+total 497 programs and 300 different sequences, geo_mean=1.10728, arith_mean=7.960%
+Online benchmark://anghabench-v1/FFmpeg/libavcodec/extr_dcadec.c_ff_dca_downmix_to_stereo_float ~ [33, 57, 29, 10, 53, 116, 29] ~ init-ir-count:178.000 ~ geo:1.024 ~ arith:2.4%
+Online benchmark://anghabench-v1/SoftEtherVPN/src/Mayaqua/extr_Encrypt.c_CheckXDate ~ [111, 10] ~ init-ir-count:28.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/TDengine/src/system/detail/src/extr_mgmtDnode.c_mgmtSetDnodeMaxVnodes ~ [39, 53, 10] ~ init-ir-count:67.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/borg/src/borg/algorithms/zstd/lib/compress/extr_zstd_compress_internal.h_ZSTD_hash7Ptr ~ [53] ~ init-ir-count:9.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/exploitdb/exploits/osx/local/extr_39675.c_main ~ [111, 55] ~ init-ir-count:40.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/hid/usbhid/extr_hid-pidff.c_pidff_set_envelope_report ~ [39, 53, 10] ~ init-ir-count:127.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/hwmon/extr_w83781d.c_w83781d_detect ~ [55, 39, 55, 97, 53, 10] ~ init-ir-count:308.000 ~ geo:1.047 ~ arith:4.4%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/net/chelsio/extr_mv88x201x.c_mv88x201x_destroy ~ [53] ~ init-ir-count:5.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/net/extr_bsd_comp.c_bsd_incomp ~ [53] ~ init-ir-count:11.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/serial/extr_samsung.c_s3c24xx_serial_verify_port ~ [39, 53, 10] ~ init-ir-count:38.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/sn/extr_ioc3.c_crc16_area ~ [103] ~ init-ir-count:21.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/drivers/watchdog/extr_it8712f_wdt.c_it8712f_wdt_open ~ [103] ~ init-ir-count:20.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/fs/lockd/extr_clntlock.c_nlmclnt_block ~ [39, 53] ~ init-ir-count:53.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/net/sched/extr_sch_mqprio.c_mqprio_parse_opt ~ [57, 53, 47, 111, 55, 97, 53, 10, 38, 55] ~ init-ir-count:171.000 ~ geo:1.123 ~ arith:11.0%
+Online benchmark://anghabench-v1/fastsocket/kernel/sound/pci/ac97/extr_ac97_patch.c_patch_ad1980 ~ [53] ~ init-ir-count:8.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/freebsd/contrib/binutils/bfd/extr_bfd.c_bfd_scan_vma ~ [53] ~ init-ir-count:31.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/freebsd/contrib/gcc/extr_c-common.c_c_type_hash ~ [111, 122, 10] ~ init-ir-count:92.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/freebsd/contrib/gcc/extr_fold-const.c_fold_truthop ~ [55, 111, 10, 116, 29, 10, 53] ~ init-ir-count:1323.000 ~ geo:1.008 ~ arith:0.8%
+Online benchmark://anghabench-v1/freebsd/crypto/openssl/crypto/asn1/extr_a_strex.c_X509_NAME_print_ex ~ [103] ~ init-ir-count:29.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/freebsd/lib/libc/gen/extr_ftw-compat11.c_freebsd11_ftw ~ [39, 53, 10] ~ init-ir-count:133.000 ~ geo:1.074 ~ arith:6.9%
+Online benchmark://anghabench-v1/freebsd/sys/mips/mips/extr_busdma_machdep.c_busdma_sysctl_tree_top ~ [53] ~ init-ir-count:6.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/lab/engine/code/bspc/extr_l_bsp_hl.c_HL_CopyLump ~ [39, 53, 10] ~ init-ir-count:97.000 ~ geo:1.026 ~ arith:2.6%
+Online benchmark://anghabench-v1/lab/engine/code/q3_ui/extr_ui_spskill.c_UI_SPSkillMenu_BackEvent ~ [111, 55] ~ init-ir-count:15.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/base/extr_core.c_device_store_ulong ~ [53, 39, 10, 53] ~ init-ir-count:51.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/char/tpm/extr_tpm_crb.c_crb_send ~ [111, 97, 10] ~ init-ir-count:120.000 ~ geo:1.017 ~ arith:1.6%
+Online benchmark://anghabench-v1/linux/drivers/gpu/drm/amd/amdgpu/extr_gfx_v8_0.c_gfx_v8_0_send_serdes_cmd ~ [38, 39, 53, 10] ~ init-ir-count:93.000 ~ geo:1.102 ~ arith:9.3%
+Online benchmark://anghabench-v1/linux/drivers/hwmon/extr_gl520sm.c_gl520_write_value ~ [10, 53] ~ init-ir-count:27.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/hwmon/extr_max6639.c_temp_fault_show ~ [103] ~ init-ir-count:48.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/infiniband/core/extr_netlink.c_rdma_nl_rcv ~ [53] ~ init-ir-count:5.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/infiniband/hw/hfi1/extr_mad.c___subn_get_opa_sc_to_sl ~ [53, 39, 10, 53] ~ init-ir-count:110.000 ~ geo:0.976 ~ arith:-2.4%
+Online benchmark://anghabench-v1/linux/drivers/infiniband/ulp/ipoib/extr_ipoib.h_ipoib_cm_destroy_tx ~ [26] ~ init-ir-count:3.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/md/extr_dm-zoned-reclaim.c_dmz_reclaim_kcopy_end ~ [10, 111, 97, 93, 10] ~ init-ir-count:40.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/media/radio/wl128x/extr_fmdrv_common.c_fm_irq_send_flag_getcmd ~ [103] ~ init-ir-count:18.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/mtd/nand/raw/extr_sh_flctl.c_execmd_write_page_sector ~ [71, 97, 10, 111] ~ init-ir-count:104.000 ~ geo:1.040 ~ arith:3.8%
+Online benchmark://anghabench-v1/linux/drivers/net/ethernet/emulex/benet/extr_be_main.c_be_get_tx_vlan_tag ~ [103] ~ init-ir-count:40.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/net/ethernet/xilinx/extr_xilinx_axienet_main.c_axienet_stop ~ [10, 111, 97] ~ init-ir-count:174.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/staging/comedi/drivers/extr_adv_pci1760.c_pci1760_do_insn_bits ~ [111, 55] ~ init-ir-count:49.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/drivers/staging/rts5208/extr_rtsx_chip.c_valid_sd_current_prior ~ [71, 111, 55, 77, 10, 53] ~ init-ir-count:48.000 ~ geo:3.667 ~ arith:72.7%
+Online benchmark://anghabench-v1/linux/net/mac80211/extr_rc80211_minstrel_ht_debugfs.c_minstrel_ht_stats_csv_dump ~ [111, 53, 57, 29, 10, 53] ~ init-ir-count:493.000 ~ geo:1.018 ~ arith:1.8%
+Online benchmark://anghabench-v1/linux/security/apparmor/extr_apparmorfs.c_rawdata_get_link_base ~ [111, 55] ~ init-ir-count:87.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/linux/tools/testing/selftests/rcutorture/formal/srcu-cbmc/src/extr_locks.h_lock_impl_lock ~ [53] ~ init-ir-count:6.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/mjolnir/Mjolnir/lua/extr_lcode.c_luaK_setlist ~ [39, 53, 10] ~ init-ir-count:79.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/mpv/video/out/extr_wayland_common.c_keyboard_handle_repeat_info ~ [97, 53] ~ init-ir-count:35.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/nginx-rtmp-module/extr_ngx_rtmp_limit_module.c_ngx_rtmp_limit_connect ~ [39, 53, 10] ~ init-ir-count:119.000 ~ geo:1.023 ~ arith:2.2%
+Online benchmark://anghabench-v1/postgres/src/backend/utils/adt/extr_tsvector_parser.c_gettoken_tsvector ~ [111, 53, 10, 57, 29] ~ init-ir-count:710.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/reactos/modules/rostests/winetests/msi/extr_source.c_create_test_guid ~ [53, 39, 53] ~ init-ir-count:61.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/systemd/src/backlight/extr_backlight.c_same_device ~ [39, 53, 10] ~ init-ir-count:81.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/wcdb/vfslog/extr_vfslog.c_vlogDlClose ~ [53] ~ init-ir-count:13.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/xLua/build/lua-5.1.5/src/extr_lparser.c_enterlevel ~ [103] ~ init-ir-count:16.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://anghabench-v1/xLua/build/lua-5.3.3/src/extr_loadlib.c_checkclib ~ [53] ~ init-ir-count:22.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/101 ~ [112, 110, 53, 38, 10, 97, 96] ~ init-ir-count:1138.000 ~ geo:1.043 ~ arith:4.2%
+Online benchmark://blas-v0/103 ~ [112, 110, 53, 30] ~ init-ir-count:996.000 ~ geo:1.078 ~ arith:7.3%
+Online benchmark://blas-v0/111 ~ [10, 117, 29, 96] ~ init-ir-count:519.000 ~ geo:1.031 ~ arith:3.0%
+Online benchmark://blas-v0/119 ~ [] ~ init-ir-count:65.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/125 ~ [38, 10, 59, 53, 97, 110] ~ init-ir-count:1563.000 ~ geo:1.042 ~ arith:4.0%
+Online benchmark://blas-v0/126 ~ [10, 38, 53, 21, 53, 29] ~ init-ir-count:467.000 ~ geo:1.009 ~ arith:0.9%
+Online benchmark://blas-v0/127 ~ [21, 53, 39, 105, 53, 116, 10, 38] ~ init-ir-count:221.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://blas-v0/131 ~ [112, 110, 53, 38, 10, 97, 96] ~ init-ir-count:1062.000 ~ geo:1.037 ~ arith:3.6%
+Online benchmark://blas-v0/133 ~ [112, 110, 53, 38, 29, 10] ~ init-ir-count:1234.000 ~ geo:1.018 ~ arith:1.7%
+Online benchmark://blas-v0/136 ~ [70, 38, 10, 53, 10, 97] ~ init-ir-count:1209.000 ~ geo:1.013 ~ arith:1.2%
+Online benchmark://blas-v0/144 ~ [] ~ init-ir-count:67.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/154 ~ [] ~ init-ir-count:83.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/166 ~ [47, 97, 38, 105, 53, 10, 21, 29] ~ init-ir-count:2658.000 ~ geo:1.027 ~ arith:2.6%
+Online benchmark://blas-v0/172 ~ [96, 117, 53, 10, 21, 29, 53] ~ init-ir-count:166.000 ~ geo:1.033 ~ arith:3.2%
+Online benchmark://blas-v0/176 ~ [53, 21, 53, 10, 97, 38] ~ init-ir-count:454.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/182 ~ [59, 53, 38, 10, 97] ~ init-ir-count:1694.000 ~ geo:1.008 ~ arith:0.8%
+Online benchmark://blas-v0/185 ~ [59, 38, 10, 29, 112, 110, 53] ~ init-ir-count:588.000 ~ geo:1.084 ~ arith:7.7%
+Online benchmark://blas-v0/189 ~ [10, 59, 53, 38] ~ init-ir-count:199.000 ~ geo:1.037 ~ arith:3.6%
+Online benchmark://blas-v0/20 ~ [] ~ init-ir-count:65.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/208 ~ [10, 39, 38, 21, 53, 29, 21, 47, 75, 39, 53, 10, 116, 10, 38] ~ init-ir-count:171.000 ~ geo:1.094 ~ arith:8.6%
+Online benchmark://blas-v0/209 ~ [38, 53, 10, 38, 21, 53, 29] ~ init-ir-count:920.000 ~ geo:1.016 ~ arith:1.6%
+Online benchmark://blas-v0/216 ~ [59, 53, 30, 57, 10, 21, 29, 117, 110, 53] ~ init-ir-count:3555.000 ~ geo:1.033 ~ arith:3.2%
+Online benchmark://blas-v0/218 ~ [105, 53, 96, 117, 105, 53, 10, 30] ~ init-ir-count:701.000 ~ geo:1.028 ~ arith:2.7%
+Online benchmark://blas-v0/219 ~ [75, 53, 39, 53, 38, 10] ~ init-ir-count:57.000 ~ geo:1.096 ~ arith:8.8%
+Online benchmark://blas-v0/222 ~ [38, 29, 59, 53, 112, 110, 110, 53, 10, 39] ~ init-ir-count:865.000 ~ geo:1.047 ~ arith:4.5%
+Online benchmark://blas-v0/230 ~ [96, 97, 10] ~ init-ir-count:428.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://blas-v0/243 ~ [59, 110, 53, 38, 10, 97, 21, 53] ~ init-ir-count:385.000 ~ geo:1.095 ~ arith:8.6%
+Online benchmark://blas-v0/244 ~ [59, 110, 38, 53, 10, 38, 21, 53, 97] ~ init-ir-count:1030.000 ~ geo:1.057 ~ arith:5.4%
+Online benchmark://blas-v0/248 ~ [21, 53, 97, 105, 53] ~ init-ir-count:157.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://blas-v0/260 ~ [38, 10, 59, 97, 112, 110, 53, 110, 53] ~ init-ir-count:1841.000 ~ geo:1.135 ~ arith:11.9%
+Online benchmark://blas-v0/266 ~ [38, 59, 53, 21, 97, 21, 47, 10, 53, 39, 38, 21, 110, 10] ~ init-ir-count:945.000 ~ geo:1.040 ~ arith:3.9%
+Online benchmark://blas-v0/28 ~ [47, 38, 39, 105, 96, 105, 53, 39, 10, 21, 53] ~ init-ir-count:2644.000 ~ geo:1.032 ~ arith:3.1%
+Online benchmark://blas-v0/280 ~ [53, 39, 53, 116, 10, 38] ~ init-ir-count:148.000 ~ geo:1.015 ~ arith:1.5%
+Online benchmark://blas-v0/294 ~ [105, 53, 96, 117, 105, 53, 10, 30] ~ init-ir-count:683.000 ~ geo:1.031 ~ arith:3.1%
+Online benchmark://blas-v0/299 ~ [75, 10, 59, 53] ~ init-ir-count:57.000 ~ geo:1.075 ~ arith:7.0%
+Online benchmark://blas-v0/36 ~ [96, 97, 10] ~ init-ir-count:428.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://blas-v0/49 ~ [39, 116, 10, 38] ~ init-ir-count:77.000 ~ geo:1.029 ~ arith:2.8%
+Online benchmark://blas-v0/5 ~ [59, 97, 110, 53, 75, 10, 97, 38, 53] ~ init-ir-count:760.000 ~ geo:1.119 ~ arith:10.6%
+Online benchmark://blas-v0/51 ~ [39, 112, 110, 53, 116, 10, 38, 97, 96] ~ init-ir-count:278.000 ~ geo:1.091 ~ arith:8.3%
+Online benchmark://blas-v0/55 ~ [59, 110, 53, 38, 10, 21, 29] ~ init-ir-count:930.000 ~ geo:1.087 ~ arith:8.0%
+Online benchmark://blas-v0/56 ~ [116, 10, 38, 53, 21, 29, 105, 53] ~ init-ir-count:194.000 ~ geo:1.011 ~ arith:1.1%
+Online benchmark://blas-v0/61 ~ [53, 21, 53, 38, 29, 10] ~ init-ir-count:974.000 ~ geo:1.007 ~ arith:0.7%
+Online benchmark://blas-v0/62 ~ [53, 38, 10, 97] ~ init-ir-count:475.000 ~ geo:1.016 ~ arith:1.5%
+Online benchmark://blas-v0/65 ~ [38, 10, 59, 53, 38, 110, 21, 97, 21, 47, 10, 30] ~ init-ir-count:722.000 ~ geo:1.084 ~ arith:7.8%
+Online benchmark://blas-v0/67 ~ [10, 110, 59, 53, 97, 38] ~ init-ir-count:1438.000 ~ geo:1.059 ~ arith:5.6%
+Online benchmark://blas-v0/69 ~ [116, 10, 38, 53, 29, 21, 47, 10, 8] ~ init-ir-count:211.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://blas-v0/71 ~ [53, 39, 53, 116, 10, 38] ~ init-ir-count:196.000 ~ geo:1.011 ~ arith:1.1%
+Online benchmark://blas-v0/79 ~ [21, 116, 10, 59, 53, 38] ~ init-ir-count:159.000 ~ geo:1.054 ~ arith:5.1%
+Online benchmark://blas-v0/84 ~ [59, 117, 53, 21, 29, 57, 10, 110, 53] ~ init-ir-count:3472.000 ~ geo:1.019 ~ arith:1.9%
+Online benchmark://blas-v0/92 ~ [38, 29, 10, 59, 53, 112, 110, 110, 53, 30] ~ init-ir-count:1087.000 ~ geo:1.047 ~ arith:4.5%
+Online benchmark://clgen-v0/005ef03ac277e7418bb806ad623f5066de5031da ~ [111, 97] ~ init-ir-count:54.000 ~ geo:1.050 ~ arith:4.8%
+Online benchmark://clgen-v0/0368bd6f883e6cbed4d5051a3ca04cd5d55b25ff ~ [111, 97] ~ init-ir-count:54.000 ~ geo:1.056 ~ arith:5.3%
+Online benchmark://clgen-v0/046a6b468106f6c7580b2928498aafe93e020c5f ~ [97, 53] ~ init-ir-count:55.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/04de5682c54255d01500cd5e2c17cc65d1745d04 ~ [97, 53] ~ init-ir-count:56.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/09daf6f964fb35eea6391360d726943bb588103b ~ [111, 97, 10] ~ init-ir-count:40.000 ~ geo:1.083 ~ arith:7.7%
+Online benchmark://clgen-v0/0a722873f3c36a2425faad03d191755474d56369 ~ [97, 53] ~ init-ir-count:55.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/0f467ce881e298cc0512aa69c88cdae407967054 ~ [111, 97] ~ init-ir-count:45.000 ~ geo:1.062 ~ arith:5.9%
+Online benchmark://clgen-v0/10960275986b8e6fe4634048830d990204c8078f ~ [53, 97, 10, 111] ~ init-ir-count:47.000 ~ geo:1.077 ~ arith:7.1%
+Online benchmark://clgen-v0/11927e307f998eba97bdde3c160a62f38432c714 ~ [29, 111, 24] ~ init-ir-count:35.000 ~ geo:1.100 ~ arith:9.1%
+Online benchmark://clgen-v0/170dbc21405f34855550d9bcb35f51e63e31b33a ~ [111, 97, 10] ~ init-ir-count:46.000 ~ geo:1.062 ~ arith:5.9%
+Online benchmark://clgen-v0/1bf8b7526ed154699b692e766590eeee3fa8d99a ~ [10, 111, 97] ~ init-ir-count:58.000 ~ geo:1.091 ~ arith:8.3%
+Online benchmark://clgen-v0/1d4bca45aec48aac3c8f47b569c482adebdc88d9 ~ [97, 53] ~ init-ir-count:39.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/203ee396aee25339ca62e3d48a0781195794a430 ~ [111, 24] ~ init-ir-count:63.000 ~ geo:1.143 ~ arith:12.5%
+Online benchmark://clgen-v0/20a63ff8b6efbc77383b015dc784aba9d57b909a ~ [29, 111, 10, 29] ~ init-ir-count:43.000 ~ geo:1.077 ~ arith:7.1%
+Online benchmark://clgen-v0/21bfd52659e612efe98348bb96deeeb44d5ed6b8 ~ [97, 53] ~ init-ir-count:59.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/22c3fcf8abebc7704deacf156f8b478425d0e40f ~ [97, 53] ~ init-ir-count:38.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/2441d2fc6372272555bd4a56f0927d54ac9503b8 ~ [38, 116, 97, 53] ~ init-ir-count:52.000 ~ geo:1.278 ~ arith:21.7%
+Online benchmark://clgen-v0/2a4eedbbd823ca98249bcebca33cfeb272900c04 ~ [29, 111, 24] ~ init-ir-count:44.000 ~ geo:1.067 ~ arith:6.2%
+Online benchmark://clgen-v0/2a787867c706d69ccfca3ed0da882fa617df0e80 ~ [111, 24] ~ init-ir-count:39.000 ~ geo:1.111 ~ arith:10.0%
+Online benchmark://clgen-v0/2b688052d9990d42fde70ab4bd0d964e4e4f13d7 ~ [111, 116, 29] ~ init-ir-count:54.000 ~ geo:1.118 ~ arith:10.5%
+Online benchmark://clgen-v0/30286ee9312124ffa95c083c73373aa506b44e0b ~ [39, 53, 10] ~ init-ir-count:45.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/3155782199e06280f61c2d31825abc9101b683e6 ~ [111, 97] ~ init-ir-count:48.000 ~ geo:1.050 ~ arith:4.8%
+Online benchmark://clgen-v0/3705591432a76e8ea889188ad191fcfbade7dfdc ~ [39, 53, 10] ~ init-ir-count:56.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/376b71dbe9111ec5a219845ece7ff78863ea7c17 ~ [111, 97, 10] ~ init-ir-count:53.000 ~ geo:1.067 ~ arith:6.2%
+Online benchmark://clgen-v0/38d16e85aeeb489d60c593e1b9a31e20bf69ef30 ~ [53, 10, 111] ~ init-ir-count:38.000 ~ geo:1.083 ~ arith:7.7%
+Online benchmark://clgen-v0/3b2e85ad235982c3915608270e8df4d5ff77477b ~ [111, 97] ~ init-ir-count:44.000 ~ geo:1.071 ~ arith:6.7%
+Online benchmark://clgen-v0/40ace8ffd9afd686c0aa8c2e16d2c1e9441a0f38 ~ [111, 24] ~ init-ir-count:37.000 ~ geo:1.100 ~ arith:9.1%
+Online benchmark://clgen-v0/43a61b2dcf3ed0eac6575f0d0ebf4adb04928e9a ~ [97, 53] ~ init-ir-count:62.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/4483ad85562f56bf529359c413033a2a9b9dd3c0 ~ [111, 38, 29] ~ init-ir-count:63.000 ~ geo:1.043 ~ arith:4.2%
+Online benchmark://clgen-v0/4d1b2143bf1f43cd4ce010ab4f2d09b52fdfb66d ~ [10, 53] ~ init-ir-count:35.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/4e28574bab153f43e7a25c57c7b9f9f4e88b104f ~ [38, 116, 97, 53] ~ init-ir-count:47.000 ~ geo:1.118 ~ arith:10.5%
+Online benchmark://clgen-v0/4ff246470f5801088210ce4e2ec0b81efceb3416 ~ [111, 97] ~ init-ir-count:61.000 ~ geo:1.214 ~ arith:17.6%
+Online benchmark://clgen-v0/50b3e686f0a530c55f4ae98aa3e52658463a0316 ~ [39, 53, 10] ~ init-ir-count:65.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/58ab16345df5adc7b6f6b216c5152922cd83a87f ~ [97, 53] ~ init-ir-count:36.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/5a67e380904f3ef7ed531c53d58e3ae66e8c52a6 ~ [29, 111, 24] ~ init-ir-count:48.000 ~ geo:1.077 ~ arith:7.1%
+Online benchmark://clgen-v0/6ad6ccab5f42d9b4b4c7753cd68835fe7ee19171 ~ [39, 53, 10] ~ init-ir-count:40.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/6c093a4e06482f8d583c349197c5d63d8cdc1555 ~ [39, 53, 26, 116, 29] ~ init-ir-count:54.000 ~ geo:1.059 ~ arith:5.6%
+Online benchmark://clgen-v0/6e903e54d0cac8224f4aec3e76fb440ab2ded815 ~ [53, 111, 57, 29, 10] ~ init-ir-count:85.000 ~ geo:1.034 ~ arith:3.3%
+Online benchmark://clgen-v0/6ef4800055a25724c6366e3a2ceb9e79cb0e4b91 ~ [97, 53] ~ init-ir-count:54.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/723c60c4168c3917f872c776f537e5cfddf4aa5d ~ [111, 116, 29] ~ init-ir-count:72.000 ~ geo:1.143 ~ arith:12.5%
+Online benchmark://clgen-v0/75d322857025c967c2eb8c653c7774b6cbc53224 ~ [9, 111, 38, 29, 55] ~ init-ir-count:56.000 ~ geo:1.111 ~ arith:10.0%
+Online benchmark://clgen-v0/7abc497d83946cb377fab24ef828a3bc73d04574 ~ [103] ~ init-ir-count:26.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/82ca0669a356a51d2a56529dbc010ab16ad5c6fa ~ [111, 97, 10] ~ init-ir-count:42.000 ~ geo:1.077 ~ arith:7.1%
+Online benchmark://clgen-v0/964f28dd0e71d973a05934faabe6121d23c52a81 ~ [111, 97, 10] ~ init-ir-count:42.000 ~ geo:1.077 ~ arith:7.1%
+Online benchmark://clgen-v0/97d2541a70c63189c366f64271f35267921e3134 ~ [97, 53] ~ init-ir-count:47.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/98511fa3c4139e2d5b189f458647762db74eca21 ~ [53, 97, 10, 111] ~ init-ir-count:43.000 ~ geo:1.077 ~ arith:7.1%
+Online benchmark://clgen-v0/9d4534a4235fd6398ce825879b78d9e756250d9d ~ [111, 116, 29] ~ init-ir-count:52.000 ~ geo:1.222 ~ arith:18.2%
+Online benchmark://clgen-v0/a037e5c7b7256ece32554d1aed5a321fd8676922 ~ [111, 97] ~ init-ir-count:64.000 ~ geo:1.042 ~ arith:4.0%
+Online benchmark://clgen-v0/a56453947d0c09f42392ed62cbc2ded7226de47e ~ [97, 53] ~ init-ir-count:44.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://clgen-v0/a670e8ff362eaae5eb70bcbaed23cd018fdaeb7b ~ [111, 97] ~ init-ir-count:63.000 ~ geo:1.091 ~ arith:8.3%
+Online benchmark://github-v0/14661 ~ [] ~ init-ir-count:28.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/15018 ~ [] ~ init-ir-count:3.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/16303 ~ [] ~ init-ir-count:31.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/17226 ~ [46, 2] ~ init-ir-count:674.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://github-v0/17676 ~ [46] ~ init-ir-count:2738.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/20369 ~ [] ~ init-ir-count:6.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/21458 ~ [8] ~ init-ir-count:2.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/215 ~ [46, 91] ~ init-ir-count:1805.000 ~ geo:1.002 ~ arith:0.2%
+Online benchmark://github-v0/21705 ~ [26, 41, 53, 10] ~ init-ir-count:46.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/23685 ~ [] ~ init-ir-count:166.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/23800 ~ [] ~ init-ir-count:6516.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://github-v0/24793 ~ [] ~ init-ir-count:59.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/25476 ~ [46] ~ init-ir-count:7153.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/25854 ~ [46] ~ init-ir-count:2732.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://github-v0/27340 ~ [2] ~ init-ir-count:1149.000 ~ geo:1.015 ~ arith:1.5%
+Online benchmark://github-v0/27558 ~ [] ~ init-ir-count:951.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/27935 ~ [46, 2] ~ init-ir-count:3062.000 ~ geo:1.002 ~ arith:0.2%
+Online benchmark://github-v0/28312 ~ [] ~ init-ir-count:22.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/28553 ~ [46] ~ init-ir-count:6.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/29266 ~ [] ~ init-ir-count:262.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/29378 ~ [] ~ init-ir-count:5.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/31044 ~ [] ~ init-ir-count:216.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/31846 ~ [117, 116, 29] ~ init-ir-count:3126.000 ~ geo:1.003 ~ arith:0.3%
+Online benchmark://github-v0/31977 ~ [53, 10] ~ init-ir-count:78.000 ~ geo:1.052 ~ arith:4.9%
+Online benchmark://github-v0/32349 ~ [38, 39, 70, 110, 38, 47, 10, 53] ~ init-ir-count:11415.000 ~ geo:1.016 ~ arith:1.6%
+Online benchmark://github-v0/33672 ~ [46] ~ init-ir-count:28.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/34935 ~ [46, 2] ~ init-ir-count:3218.000 ~ geo:1.039 ~ arith:3.8%
+Online benchmark://github-v0/35377 ~ [] ~ init-ir-count:45.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/35679 ~ [] ~ init-ir-count:215.000 ~ geo:1.009 ~ arith:0.9%
+Online benchmark://github-v0/38742 ~ [2] ~ init-ir-count:83.000 ~ geo:1.063 ~ arith:6.0%
+Online benchmark://github-v0/38923 ~ [46] ~ init-ir-count:1887.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://github-v0/39887 ~ [] ~ init-ir-count:38.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/40461 ~ [2] ~ init-ir-count:271.000 ~ geo:1.015 ~ arith:1.5%
+Online benchmark://github-v0/40792 ~ [2] ~ init-ir-count:170.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://github-v0/41147 ~ [] ~ init-ir-count:332.000 ~ geo:1.003 ~ arith:0.3%
+Online benchmark://github-v0/41228 ~ [] ~ init-ir-count:90.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/41990 ~ [] ~ init-ir-count:5.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/44482 ~ [40] ~ init-ir-count:739.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/44732 ~ [46] ~ init-ir-count:28.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/45941 ~ [] ~ init-ir-count:7.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/45962 ~ [] ~ init-ir-count:77.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/46640 ~ [91] ~ init-ir-count:217.000 ~ geo:1.276 ~ arith:21.7%
+Online benchmark://github-v0/46766 ~ [] ~ init-ir-count:362.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/46825 ~ [] ~ init-ir-count:315.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://github-v0/46847 ~ [] ~ init-ir-count:2552.000 ~ geo:1.002 ~ arith:0.2%
+Online benchmark://github-v0/7929 ~ [2] ~ init-ir-count:171.000 ~ geo:1.030 ~ arith:2.9%
+Online benchmark://github-v0/9112 ~ [2] ~ init-ir-count:8518.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://github-v0/9416 ~ [] ~ init-ir-count:2130.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://github-v0/9890 ~ [] ~ init-ir-count:10.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/104 ~ [41, 91, 91, 2] ~ init-ir-count:12752.000 ~ geo:1.041 ~ arith:4.0%
+Online benchmark://linux-v0/11675 ~ [] ~ init-ir-count:173.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/11879 ~ [2, 46] ~ init-ir-count:12623.000 ~ geo:1.002 ~ arith:0.2%
+Online benchmark://linux-v0/1190 ~ [46, 23, 91, 2] ~ init-ir-count:1238.000 ~ geo:1.008 ~ arith:0.8%
+Online benchmark://linux-v0/12395 ~ [] ~ init-ir-count:1858.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://linux-v0/12468 ~ [2, 46, 91] ~ init-ir-count:2542.000 ~ geo:1.040 ~ arith:3.8%
+Online benchmark://linux-v0/12612 ~ [46] ~ init-ir-count:1565.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://linux-v0/13127 ~ [] ~ init-ir-count:536.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/13193 ~ [2] ~ init-ir-count:403.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://linux-v0/1386 ~ [2, 46, 91, 40] ~ init-ir-count:2764.000 ~ geo:1.005 ~ arith:0.5%
+Online benchmark://linux-v0/1509 ~ [46, 91] ~ init-ir-count:1988.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://linux-v0/1744 ~ [2] ~ init-ir-count:2574.000 ~ geo:1.011 ~ arith:1.0%
+Online benchmark://linux-v0/1919 ~ [46] ~ init-ir-count:2139.000 ~ geo:1.002 ~ arith:0.2%
+Online benchmark://linux-v0/2051 ~ [46, 2] ~ init-ir-count:846.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://linux-v0/2263 ~ [91, 46, 2] ~ init-ir-count:5892.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://linux-v0/2408 ~ [] ~ init-ir-count:1113.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/2581 ~ [46, 2] ~ init-ir-count:1154.000 ~ geo:1.006 ~ arith:0.6%
+Online benchmark://linux-v0/2816 ~ [2] ~ init-ir-count:797.000 ~ geo:1.032 ~ arith:3.1%
+Online benchmark://linux-v0/3348 ~ [46, 2] ~ init-ir-count:3400.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://linux-v0/3563 ~ [46] ~ init-ir-count:762.000 ~ geo:1.003 ~ arith:0.3%
+Online benchmark://linux-v0/3653 ~ [91, 46, 2] ~ init-ir-count:3275.000 ~ geo:1.003 ~ arith:0.3%
+Online benchmark://linux-v0/4116 ~ [] ~ init-ir-count:586.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/4244 ~ [91] ~ init-ir-count:716.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://linux-v0/4558 ~ [46, 2] ~ init-ir-count:672.000 ~ geo:1.009 ~ arith:0.9%
+Online benchmark://linux-v0/483 ~ [] ~ init-ir-count:10.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/5211 ~ [] ~ init-ir-count:209.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/5892 ~ [2] ~ init-ir-count:3118.000 ~ geo:1.058 ~ arith:5.5%
+Online benchmark://linux-v0/5933 ~ [46, 23, 91, 2, 40] ~ init-ir-count:9223.000 ~ geo:1.045 ~ arith:4.3%
+Online benchmark://linux-v0/5934 ~ [2, 46, 23, 91] ~ init-ir-count:4697.000 ~ geo:1.008 ~ arith:0.7%
+Online benchmark://linux-v0/6073 ~ [2, 46, 91] ~ init-ir-count:7413.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://linux-v0/6125 ~ [46, 91] ~ init-ir-count:3120.000 ~ geo:1.003 ~ arith:0.3%
+Online benchmark://linux-v0/6384 ~ [2] ~ init-ir-count:2211.000 ~ geo:1.014 ~ arith:1.4%
+Online benchmark://linux-v0/6563 ~ [91, 46] ~ init-ir-count:1550.000 ~ geo:1.005 ~ arith:0.5%
+Online benchmark://linux-v0/7028 ~ [] ~ init-ir-count:1890.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/7080 ~ [2] ~ init-ir-count:1234.000 ~ geo:1.007 ~ arith:0.7%
+Online benchmark://linux-v0/7730 ~ [2, 46, 91] ~ init-ir-count:2195.000 ~ geo:1.006 ~ arith:0.6%
+Online benchmark://linux-v0/7870 ~ [2] ~ init-ir-count:304.000 ~ geo:1.007 ~ arith:0.7%
+Online benchmark://linux-v0/8018 ~ [46] ~ init-ir-count:3211.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/8183 ~ [46, 40, 23, 91] ~ init-ir-count:5725.000 ~ geo:1.002 ~ arith:0.2%
+Online benchmark://linux-v0/8362 ~ [] ~ init-ir-count:95.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/8777 ~ [46, 2] ~ init-ir-count:2078.000 ~ geo:1.014 ~ arith:1.3%
+Online benchmark://linux-v0/896 ~ [91] ~ init-ir-count:1424.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://linux-v0/9253 ~ [] ~ init-ir-count:122.000 ~ geo:1.008 ~ arith:0.8%
+Online benchmark://linux-v0/9306 ~ [2, 46] ~ init-ir-count:7917.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://linux-v0/942 ~ [2, 91, 46] ~ init-ir-count:1279.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://linux-v0/9508 ~ [2] ~ init-ir-count:1437.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://linux-v0/9836 ~ [] ~ init-ir-count:75.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://linux-v0/9898 ~ [91] ~ init-ir-count:350.000 ~ geo:1.014 ~ arith:1.4%
+Online benchmark://opencv-v0/10 ~ [] ~ init-ir-count:374.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/11 ~ [70, 97, 47, 10, 59, 29, 96, 53, 21, 55] ~ init-ir-count:1272.000 ~ geo:1.054 ~ arith:5.1%
+Online benchmark://opencv-v0/12 ~ [83, 38, 10, 97] ~ init-ir-count:2610.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://opencv-v0/125 ~ [105, 96, 105, 39, 59, 110, 53, 117, 116, 29, 115, 97, 10, 47, 29, 10, 105, 53, 29, 53, 96, 38] ~ init-ir-count:17584.000 ~ geo:1.020 ~ arith:1.9%
+Online benchmark://opencv-v0/141 ~ [10, 53] ~ init-ir-count:202.000 ~ geo:0.984 ~ arith:-1.6%
+Online benchmark://opencv-v0/155 ~ [10] ~ init-ir-count:116.000 ~ geo:0.965 ~ arith:-3.6%
+Online benchmark://opencv-v0/156 ~ [55, 38, 53, 39, 10, 59, 59, 83, 53, 97, 10, 110, 53, 93, 116, 10, 38, 105, 39, 10, 53, 111, 57, 29, 10] ~ init-ir-count:6344.000 ~ geo:1.031 ~ arith:3.0%
+Online benchmark://opencv-v0/158 ~ [39, 70, 10, 117, 96, 59, 110, 53, 47, 47, 29, 10, 83] ~ init-ir-count:2498.000 ~ geo:1.290 ~ arith:22.5%
+Online benchmark://opencv-v0/160 ~ [75, 53, 86, 10, 40, 91, 38, 10, 115, 21, 59, 53] ~ init-ir-count:609.000 ~ geo:1.269 ~ arith:21.2%
+Online benchmark://opencv-v0/164 ~ [91, 86, 97, 70, 96, 29, 38, 111, 53, 47, 41, 71, 10, 21, 97, 112, 110, 53, 116, 97, 10] ~ init-ir-count:18216.000 ~ geo:1.414 ~ arith:29.3%
+Online benchmark://opencv-v0/165 ~ [59, 53] ~ init-ir-count:212.000 ~ geo:1.098 ~ arith:9.0%
+Online benchmark://opencv-v0/173 ~ [59, 110, 53, 116, 39, 10, 83, 53, 55, 97] ~ init-ir-count:650.000 ~ geo:1.021 ~ arith:2.0%
+Online benchmark://opencv-v0/193 ~ [91, 29, 70, 86, 47, 10, 21, 41, 53, 38, 97] ~ init-ir-count:21201.000 ~ geo:2.024 ~ arith:50.6%
+Online benchmark://opencv-v0/199 ~ [] ~ init-ir-count:2926.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/201 ~ [97, 90, 38, 10, 83, 53] ~ init-ir-count:7110.000 ~ geo:1.001 ~ arith:0.1%
+Online benchmark://opencv-v0/204 ~ [] ~ init-ir-count:48.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/205 ~ [110, 53, 65, 47, 10, 63, 116, 10, 53] ~ init-ir-count:697.000 ~ geo:1.062 ~ arith:5.8%
+Online benchmark://opencv-v0/207 ~ [38, 97, 59, 57, 10, 110, 38, 53, 96, 33, 39] ~ init-ir-count:1891.000 ~ geo:1.014 ~ arith:1.4%
+Online benchmark://opencv-v0/211 ~ [59, 86, 10, 40, 39, 10, 110, 53] ~ init-ir-count:178.000 ~ geo:1.405 ~ arith:28.8%
+Online benchmark://opencv-v0/225 ~ [] ~ init-ir-count:27.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/228 ~ [21, 53, 38, 116, 29, 10, 96, 53] ~ init-ir-count:1795.000 ~ geo:1.020 ~ arith:1.9%
+Online benchmark://opencv-v0/23 ~ [21] ~ init-ir-count:99.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/242 ~ [91, 39, 86, 10, 40, 115, 29] ~ init-ir-count:1157.000 ~ geo:1.067 ~ arith:6.3%
+Online benchmark://opencv-v0/269 ~ [115, 55, 53, 39, 59, 83, 105, 53, 29] ~ init-ir-count:5339.000 ~ geo:1.052 ~ arith:5.0%
+Online benchmark://opencv-v0/297 ~ [29, 86, 10, 40, 91, 39, 116, 38, 10, 117, 29] ~ init-ir-count:2770.000 ~ geo:1.301 ~ arith:23.1%
+Online benchmark://opencv-v0/298 ~ [] ~ init-ir-count:278.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/30 ~ [59, 53, 30, 9, 10] ~ init-ir-count:569.000 ~ geo:1.020 ~ arith:1.9%
+Online benchmark://opencv-v0/31 ~ [] ~ init-ir-count:707.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/310 ~ [59, 53, 9, 10] ~ init-ir-count:434.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://opencv-v0/314 ~ [59, 110, 39, 97, 53, 10] ~ init-ir-count:407.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://opencv-v0/316 ~ [105, 59, 53, 30] ~ init-ir-count:372.000 ~ geo:1.046 ~ arith:4.4%
+Online benchmark://opencv-v0/320 ~ [97, 10] ~ init-ir-count:432.000 ~ geo:1.137 ~ arith:12.1%
+Online benchmark://opencv-v0/327 ~ [59, 110, 39, 97, 10, 59, 53, 30] ~ init-ir-count:409.000 ~ geo:1.013 ~ arith:1.3%
+Online benchmark://opencv-v0/329 ~ [86, 10, 40, 91, 90, 97] ~ init-ir-count:382.000 ~ geo:1.196 ~ arith:16.4%
+Online benchmark://opencv-v0/334 ~ [91, 86, 93, 97, 38, 53, 41, 47, 21, 75, 39, 53, 10] ~ init-ir-count:1868.000 ~ geo:1.167 ~ arith:14.3%
+Online benchmark://opencv-v0/336 ~ [91, 86, 10] ~ init-ir-count:9047.000 ~ geo:1.721 ~ arith:41.9%
+Online benchmark://opencv-v0/337 ~ [59, 110, 53, 86, 10, 40, 96, 38, 97] ~ init-ir-count:1423.000 ~ geo:1.267 ~ arith:21.1%
+Online benchmark://opencv-v0/341 ~ [] ~ init-ir-count:19.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/366 ~ [91, 86, 10, 40, 59, 23, 24] ~ init-ir-count:1590.000 ~ geo:2.013 ~ arith:50.3%
+Online benchmark://opencv-v0/375 ~ [83, 105, 39, 10, 53, 21, 47, 10, 59, 110, 110, 53] ~ init-ir-count:6383.000 ~ geo:1.125 ~ arith:11.1%
+Online benchmark://opencv-v0/393 ~ [] ~ init-ir-count:124.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://opencv-v0/404 ~ [83, 53, 91, 97, 90, 38, 21, 47, 26, 53, 29, 10] ~ init-ir-count:9744.000 ~ geo:1.026 ~ arith:2.5%
+Online benchmark://opencv-v0/411 ~ [59, 83, 53, 55, 97, 53, 10, 38, 116, 10] ~ init-ir-count:2064.000 ~ geo:1.066 ~ arith:6.2%
+Online benchmark://opencv-v0/422 ~ [39, 10, 90, 97, 21, 59] ~ init-ir-count:343.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://opencv-v0/434 ~ [59, 83, 53, 97, 91, 116, 10] ~ init-ir-count:632.000 ~ geo:1.088 ~ arith:8.1%
+Online benchmark://opencv-v0/436 ~ [86, 36, 10, 40] ~ init-ir-count:197.000 ~ geo:2.052 ~ arith:51.3%
+Online benchmark://opencv-v0/437 ~ [96, 53, 39, 10, 53] ~ init-ir-count:637.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://opencv-v0/54 ~ [91, 86, 10, 40, 21, 53] ~ init-ir-count:1771.000 ~ geo:1.468 ~ arith:31.9%
+Online benchmark://opencv-v0/78 ~ [47, 10, 53, 116, 97, 86, 10, 41, 97] ~ init-ir-count:2725.000 ~ geo:1.155 ~ arith:13.4%
+Online benchmark://opencv-v0/96 ~ [70, 91, 86, 116, 29, 10, 38, 21, 33, 47, 10, 29, 40, 55, 97, 53] ~ init-ir-count:11078.000 ~ geo:1.117 ~ arith:10.4%
+Online benchmark://poj104-v1/1/1341 ~ [31, 111, 36, 53, 29, 10] ~ init-ir-count:207.000 ~ geo:1.194 ~ arith:16.2%
+Online benchmark://poj104-v1/101/378 ~ [36, 53, 71, 111, 97, 10] ~ init-ir-count:180.000 ~ geo:1.368 ~ arith:26.9%
+Online benchmark://poj104-v1/15/1575 ~ [36, 53, 111, 97, 10, 96] ~ init-ir-count:189.000 ~ geo:1.083 ~ arith:7.7%
+Online benchmark://poj104-v1/15/915 ~ [55, 111, 29, 10, 31, 36, 53, 96, 10, 97] ~ init-ir-count:209.000 ~ geo:1.144 ~ arith:12.6%
+Online benchmark://poj104-v1/20/403 ~ [71, 36, 39, 53, 47, 10, 102, 29, 40, 53, 65, 47, 10, 111, 53, 21, 29] ~ init-ir-count:185.000 ~ geo:0.973 ~ arith:-2.8%
+Online benchmark://poj104-v1/21/149 ~ [36, 111, 97, 47, 29, 10] ~ init-ir-count:206.000 ~ geo:1.012 ~ arith:1.2%
+Online benchmark://poj104-v1/23/218 ~ [38, 36, 53, 39, 10, 53] ~ init-ir-count:221.000 ~ geo:1.049 ~ arith:4.6%
+Online benchmark://poj104-v1/23/386 ~ [31, 111, 36, 53, 10, 29] ~ init-ir-count:191.000 ~ geo:1.120 ~ arith:10.8%
+Online benchmark://poj104-v1/24/714 ~ [71, 36, 53, 39, 10, 53, 116, 29] ~ init-ir-count:154.000 ~ geo:1.068 ~ arith:6.3%
+Online benchmark://poj104-v1/24/735 ~ [36, 53, 39, 10, 53, 47, 10] ~ init-ir-count:127.000 ~ geo:1.057 ~ arith:5.4%
+Online benchmark://poj104-v1/25/34 ~ [31, 36, 39, 53, 10, 96] ~ init-ir-count:237.000 ~ geo:1.156 ~ arith:13.5%
+Online benchmark://poj104-v1/25/82 ~ [31, 39, 21, 36, 71, 55, 53, 47, 29, 65, 47, 10, 53, 29] ~ init-ir-count:182.000 ~ geo:1.138 ~ arith:12.1%
+Online benchmark://poj104-v1/27/614 ~ [111, 39, 36] ~ init-ir-count:161.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://poj104-v1/27/742 ~ [31, 36, 39, 53, 10] ~ init-ir-count:309.000 ~ geo:1.065 ~ arith:6.1%
+Online benchmark://poj104-v1/28/1674 ~ [97, 53, 47, 57, 29, 53, 36, 116, 10, 39, 38, 21] ~ init-ir-count:167.000 ~ geo:1.045 ~ arith:4.3%
+Online benchmark://poj104-v1/3/1964 ~ [111, 47, 29, 36, 53, 10] ~ init-ir-count:152.000 ~ geo:1.059 ~ arith:5.6%
+Online benchmark://poj104-v1/31/1057 ~ [50, 36, 39, 53, 10, 30] ~ init-ir-count:130.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://poj104-v1/31/262 ~ [71, 39, 97, 53, 116, 29, 10, 53] ~ init-ir-count:162.000 ~ geo:0.938 ~ arith:-6.7%
+Online benchmark://poj104-v1/35/157 ~ [53, 36, 97, 39, 97, 53, 47, 10, 53] ~ init-ir-count:221.000 ~ geo:2.260 ~ arith:55.8%
+Online benchmark://poj104-v1/4/1331 ~ [29, 36, 53, 10] ~ init-ir-count:147.000 ~ geo:1.093 ~ arith:8.5%
+Online benchmark://poj104-v1/40/1370 ~ [29, 36, 53, 10] ~ init-ir-count:174.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://poj104-v1/41/677 ~ [31, 36, 29, 53, 10, 46, 71, 10] ~ init-ir-count:277.000 ~ geo:1.323 ~ arith:24.4%
+Online benchmark://poj104-v1/43/43 ~ [36, 39, 53, 10] ~ init-ir-count:103.000 ~ geo:1.028 ~ arith:2.7%
+Online benchmark://poj104-v1/46/1153 ~ [53, 36, 97, 111, 47, 78, 55, 47, 55, 97, 53, 10] ~ init-ir-count:263.000 ~ geo:1.244 ~ arith:19.6%
+Online benchmark://poj104-v1/46/2005 ~ [111, 36, 97, 10, 97, 53] ~ init-ir-count:276.000 ~ geo:1.100 ~ arith:9.1%
+Online benchmark://poj104-v1/47/1542 ~ [36, 39, 97, 53, 47, 10] ~ init-ir-count:104.000 ~ geo:2.391 ~ arith:58.2%
+Online benchmark://poj104-v1/49/910 ~ [36, 39, 47, 53, 29, 10] ~ init-ir-count:175.000 ~ geo:1.028 ~ arith:2.7%
+Online benchmark://poj104-v1/53/13 ~ [36, 111, 97, 10] ~ init-ir-count:118.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://poj104-v1/53/1613 ~ [111, 47, 36, 39, 53, 10] ~ init-ir-count:132.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://poj104-v1/53/802 ~ [36, 111, 47, 53, 29, 10] ~ init-ir-count:123.000 ~ geo:1.015 ~ arith:1.5%
+Online benchmark://poj104-v1/53/832 ~ [36, 53, 111, 10, 47, 97] ~ init-ir-count:149.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://poj104-v1/55/1118 ~ [38, 93, 36, 39, 53, 10, 38, 116, 29, 10, 53] ~ init-ir-count:274.000 ~ geo:1.144 ~ arith:12.6%
+Online benchmark://poj104-v1/56/1098 ~ [36, 10, 111, 97] ~ init-ir-count:140.000 ~ geo:1.032 ~ arith:3.1%
+Online benchmark://poj104-v1/68/822 ~ [29, 36, 53, 10] ~ init-ir-count:130.000 ~ geo:1.037 ~ arith:3.6%
+Online benchmark://poj104-v1/7/765 ~ [39, 53, 47, 36, 39, 53, 10] ~ init-ir-count:218.000 ~ geo:1.022 ~ arith:2.1%
+Online benchmark://poj104-v1/70/1081 ~ [31, 36, 111, 97, 10] ~ init-ir-count:175.000 ~ geo:1.141 ~ arith:12.3%
+Online benchmark://poj104-v1/71/1692 ~ [36, 39, 53, 57, 10, 53, 38, 10] ~ init-ir-count:159.000 ~ geo:1.021 ~ arith:2.1%
+Online benchmark://poj104-v1/72/1231 ~ [111, 29, 36, 10, 53, 96] ~ init-ir-count:369.000 ~ geo:1.162 ~ arith:14.0%
+Online benchmark://poj104-v1/73/863 ~ [36, 53, 71, 111, 57, 39, 47, 29, 10] ~ init-ir-count:175.000 ~ geo:1.677 ~ arith:40.4%
+Online benchmark://poj104-v1/74/1075 ~ [53, 111, 97, 10] ~ init-ir-count:175.000 ~ geo:0.988 ~ arith:-1.2%
+Online benchmark://poj104-v1/77/937 ~ [31, 111, 83, 29, 36, 10, 53] ~ init-ir-count:435.000 ~ geo:2.351 ~ arith:57.5%
+Online benchmark://poj104-v1/82/140 ~ [36, 111, 53, 39, 10, 53, 96] ~ init-ir-count:188.000 ~ geo:1.038 ~ arith:3.7%
+Online benchmark://poj104-v1/85/104 ~ [97, 53, 47, 10, 39, 10, 53, 36] ~ init-ir-count:182.000 ~ geo:1.033 ~ arith:3.2%
+Online benchmark://poj104-v1/85/1471 ~ [36, 55, 53, 39, 10, 53, 47] ~ init-ir-count:136.000 ~ geo:1.022 ~ arith:2.1%
+Online benchmark://poj104-v1/87/31 ~ [57, 47, 36, 39, 53, 105, 10, 59, 53, 38, 71] ~ init-ir-count:117.000 ~ geo:1.060 ~ arith:5.7%
+Online benchmark://poj104-v1/89/1631 ~ [31, 36, 39, 10, 53, 116, 29, 10] ~ init-ir-count:179.000 ~ geo:1.138 ~ arith:12.1%
+Online benchmark://poj104-v1/9/114 ~ [36, 53, 39, 10, 53, 96] ~ init-ir-count:221.000 ~ geo:1.029 ~ arith:2.8%
+Online benchmark://poj104-v1/9/695 ~ [36, 53, 111, 57, 29, 10] ~ init-ir-count:422.000 ~ geo:1.084 ~ arith:7.7%
+Online benchmark://poj104-v1/94/1797 ~ [36, 53, 111, 29, 116, 10, 38] ~ init-ir-count:185.000 ~ geo:1.036 ~ arith:3.5%
+Online benchmark://poj104-v1/95/661 ~ [111, 29, 10, 53, 36, 29] ~ init-ir-count:181.000 ~ geo:0.987 ~ arith:-1.3%
+Online benchmark://tensorflow-v0/1023 ~ [116, 38, 29] ~ init-ir-count:203.000 ~ geo:1.010 ~ arith:1.0%
+Online benchmark://tensorflow-v0/1025 ~ [91, 29, 86, 10, 40, 39, 97, 55, 53, 38, 10, 115, 97, 10] ~ init-ir-count:7096.000 ~ geo:1.122 ~ arith:10.9%
+Online benchmark://tensorflow-v0/106 ~ [91, 86, 10, 29, 59, 110, 97, 38, 53, 115, 41, 21] ~ init-ir-count:2830.000 ~ geo:1.248 ~ arith:19.9%
+Online benchmark://tensorflow-v0/1083 ~ [39, 55, 53, 91, 29, 110, 38, 97, 10, 115, 21, 117, 29, 26] ~ init-ir-count:11500.000 ~ geo:1.075 ~ arith:7.0%
+Online benchmark://tensorflow-v0/1092 ~ [38, 53, 10, 91, 39, 93, 96, 47, 116, 10, 21, 53, 36, 53, 97, 91] ~ init-ir-count:6307.000 ~ geo:1.149 ~ arith:13.0%
+Online benchmark://tensorflow-v0/1149 ~ [59, 36, 86, 10, 40, 110, 53, 57, 29, 10] ~ init-ir-count:1788.000 ~ geo:1.181 ~ arith:15.3%
+Online benchmark://tensorflow-v0/1179 ~ [] ~ init-ir-count:97.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://tensorflow-v0/1288 ~ [36, 39, 53, 86, 10, 40, 111, 57, 10, 91, 115, 29] ~ init-ir-count:1289.000 ~ geo:1.272 ~ arith:21.4%
+Online benchmark://tensorflow-v0/1290 ~ [97, 71, 55, 91] ~ init-ir-count:274.000 ~ geo:1.038 ~ arith:3.7%
+Online benchmark://tensorflow-v0/1292 ~ [91, 86, 39, 55, 41, 97, 117, 29, 10] ~ init-ir-count:6273.000 ~ geo:1.427 ~ arith:29.9%
+Online benchmark://tensorflow-v0/1321 ~ [39, 97, 10, 59, 53] ~ init-ir-count:221.000 ~ geo:1.024 ~ arith:2.4%
+Online benchmark://tensorflow-v0/1325 ~ [38, 10, 91, 97] ~ init-ir-count:3102.000 ~ geo:1.009 ~ arith:0.9%
+Online benchmark://tensorflow-v0/1370 ~ [91, 97, 86, 10, 21, 55, 38, 53] ~ init-ir-count:1749.000 ~ geo:1.014 ~ arith:1.4%
+Online benchmark://tensorflow-v0/1411 ~ [53, 29, 86, 10, 96, 38, 97, 115, 21, 26, 110, 53, 116, 29, 10, 53, 91, 55, 91, 40] ~ init-ir-count:45396.000 ~ geo:1.228 ~ arith:18.6%
+Online benchmark://tensorflow-v0/1427 ~ [38, 116, 97, 53, 86, 10, 55, 41, 97] ~ init-ir-count:11743.000 ~ geo:1.410 ~ arith:29.1%
+Online benchmark://tensorflow-v0/1452 ~ [38, 10, 53, 91, 97, 21, 96, 53] ~ init-ir-count:9569.000 ~ geo:1.106 ~ arith:9.6%
+Online benchmark://tensorflow-v0/147 ~ [91, 70, 86, 10, 36, 97, 53, 38, 10, 116, 97] ~ init-ir-count:4005.000 ~ geo:1.308 ~ arith:23.6%
+Online benchmark://tensorflow-v0/1490 ~ [21, 53, 36, 53, 38, 10, 97, 96] ~ init-ir-count:2451.000 ~ geo:0.999 ~ arith:-0.1%
+Online benchmark://tensorflow-v0/1524 ~ [38, 111, 70, 86, 10, 39, 97, 55, 53, 96, 91, 39, 40, 90, 53] ~ init-ir-count:3380.000 ~ geo:1.136 ~ arith:12.0%
+Online benchmark://tensorflow-v0/1553 ~ [55, 97, 21, 55, 97, 10] ~ init-ir-count:5263.000 ~ geo:0.967 ~ arith:-3.4%
+Online benchmark://tensorflow-v0/1667 ~ [97, 38, 70, 10, 59, 53, 117, 110, 96, 117, 39, 105, 91, 29, 115, 55, 38, 90, 53, 39, 110, 53, 96, 53, 57, 10, 90, 97, 96, 53] ~ init-ir-count:35297.000 ~ geo:1.119 ~ arith:10.6%
+Online benchmark://tensorflow-v0/171 ~ [86, 10, 36, 115, 55, 38, 21, 47, 10, 59, 53, 30] ~ init-ir-count:2057.000 ~ geo:1.186 ~ arith:15.7%
+Online benchmark://tensorflow-v0/1719 ~ [91, 29, 53, 38, 97, 10, 115, 21] ~ init-ir-count:6204.000 ~ geo:1.005 ~ arith:0.5%
+Online benchmark://tensorflow-v0/1721 ~ [10, 36, 97, 53, 39, 53] ~ init-ir-count:757.000 ~ geo:1.040 ~ arith:3.8%
+Online benchmark://tensorflow-v0/1768 ~ [47, 10, 21, 53] ~ init-ir-count:1194.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://tensorflow-v0/1781 ~ [29, 86, 10, 40, 53, 97, 91] ~ init-ir-count:3227.000 ~ geo:1.217 ~ arith:17.8%
+Online benchmark://tensorflow-v0/18 ~ [91, 39, 86, 10, 40, 59, 110, 57, 29, 10, 53, 21, 117, 116, 29, 53] ~ init-ir-count:13924.000 ~ geo:1.134 ~ arith:11.8%
+Online benchmark://tensorflow-v0/1809 ~ [29, 91, 86, 97, 40, 10, 26, 115, 59, 91, 29] ~ init-ir-count:3001.000 ~ geo:1.216 ~ arith:17.7%
+Online benchmark://tensorflow-v0/1848 ~ [86, 10, 40, 53, 21, 59, 110, 53, 91, 116, 29] ~ init-ir-count:23116.000 ~ geo:1.183 ~ arith:15.5%
+Online benchmark://tensorflow-v0/1856 ~ [53] ~ init-ir-count:154.000 ~ geo:1.000 ~ arith:0.0%
+Online benchmark://tensorflow-v0/1859 ~ [91, 38, 36, 10] ~ init-ir-count:1670.000 ~ geo:1.003 ~ arith:0.3%
+Online benchmark://tensorflow-v0/1877 ~ [91, 70, 86, 10, 40, 97, 117, 59, 110, 55, 53, 116, 97, 96] ~ init-ir-count:22589.000 ~ geo:1.291 ~ arith:22.5%
+Online benchmark://tensorflow-v0/1907 ~ [53, 39, 55, 38, 83, 97, 53, 96, 116, 10, 110] ~ init-ir-count:5724.000 ~ geo:1.004 ~ arith:0.4%
+Online benchmark://tensorflow-v0/2 ~ [38, 91, 39, 97, 10, 115, 21, 53, 55, 53, 39, 10, 8] ~ init-ir-count:16497.000 ~ geo:1.109 ~ arith:9.8%
+Online benchmark://tensorflow-v0/203 ~ [38, 10, 115, 21, 86, 97, 36, 111, 30, 10, 26, 53] ~ init-ir-count:8116.000 ~ geo:1.315 ~ arith:23.9%
+Online benchmark://tensorflow-v0/217 ~ [91, 29, 86, 10, 40, 26, 53, 38, 97, 115, 21] ~ init-ir-count:4680.000 ~ geo:1.335 ~ arith:25.1%
+Online benchmark://tensorflow-v0/427 ~ [110, 111, 53, 91, 39, 55, 10, 97] ~ init-ir-count:3349.000 ~ geo:1.246 ~ arith:19.8%
+Online benchmark://tensorflow-v0/429 ~ [70, 91, 38, 36, 39, 97, 53, 47, 10, 97, 96, 116, 21, 29, 57, 29, 10, 53] ~ init-ir-count:18139.000 ~ geo:1.008 ~ arith:0.8%
+Online benchmark://tensorflow-v0/433 ~ [38, 97, 10, 115, 21, 91, 53, 29] ~ init-ir-count:3919.000 ~ geo:1.097 ~ arith:8.9%
+Online benchmark://tensorflow-v0/539 ~ [10, 59, 53] ~ init-ir-count:309.000 ~ geo:1.021 ~ arith:2.1%
+Online benchmark://tensorflow-v0/557 ~ [59, 86, 10, 40, 110, 53, 91, 29, 96] ~ init-ir-count:5668.000 ~ geo:1.160 ~ arith:13.8%
+Online benchmark://tensorflow-v0/698 ~ [71, 97, 21, 29, 10] ~ init-ir-count:1319.000 ~ geo:0.987 ~ arith:-1.3%
+Online benchmark://tensorflow-v0/75 ~ [38, 93, 29, 70, 86, 10, 96, 41, 21, 53] ~ init-ir-count:3130.000 ~ geo:1.202 ~ arith:16.8%
+Online benchmark://tensorflow-v0/805 ~ [70, 91, 53, 96, 111, 97, 117, 96, 105, 10, 38, 29, 10, 21, 53] ~ init-ir-count:16014.000 ~ geo:1.248 ~ arith:19.9%
+Online benchmark://tensorflow-v0/854 ~ [38, 10, 91, 97] ~ init-ir-count:2762.000 ~ geo:1.019 ~ arith:1.8%
+Online benchmark://tensorflow-v0/865 ~ [53, 38, 70, 10, 105, 96, 36, 97, 53, 30] ~ init-ir-count:3426.000 ~ geo:1.042 ~ arith:4.0%
+Online benchmark://tensorflow-v0/885 ~ [10, 102, 53, 91, 90, 38, 10, 97, 116, 29] ~ init-ir-count:3678.000 ~ geo:1.053 ~ arith:5.1%
+Online benchmark://tensorflow-v0/901 ~ [38, 36, 53, 10, 91, 26, 115, 21, 65, 39, 10] ~ init-ir-count:8449.000 ~ geo:1.063 ~ arith:6.0%
+Online benchmark://tensorflow-v0/923 ~ [39, 97, 53, 47, 91, 39, 115, 90, 38, 110, 29, 70, 86, 53, 96, 65, 47, 10, 26, 111, 53, 21, 117, 116, 29] ~ init-ir-count:42375.000 ~ geo:1.118 ~ arith:10.5%
+Online benchmark://tensorflow-v0/977 ~ [38, 86, 10, 29, 59, 36, 97, 53, 10, 115, 29] ~ init-ir-count:6879.000 ~ geo:1.199 ~ arith:16.6%
+Online generator://csmith-v0/1043862235 ~ [36, 53, 39, 41, 53, 57, 47, 36, 111, 46, 77, 39, 41, 53, 57, 47, 10, 26, 8] ~ init-ir-count:14351.000 ~ geo:3.864 ~ arith:74.1%
+Online generator://csmith-v0/1166846567 ~ [71, 111, 36, 53, 10, 39, 41, 53, 57, 47, 10, 26, 21, 53] ~ init-ir-count:15072.000 ~ geo:1.653 ~ arith:39.5%
+Online generator://csmith-v0/1167205999 ~ [97, 111, 46, 41, 102, 53, 40, 71, 46, 61, 10, 97] ~ init-ir-count:4683.000 ~ geo:1.224 ~ arith:18.3%
+Online generator://csmith-v0/1285232880 ~ [53, 71, 41, 111, 46, 102, 29, 40, 53, 10, 21, 29] ~ init-ir-count:2945.000 ~ geo:1.821 ~ arith:45.1%
+Online generator://csmith-v0/129914469 ~ [111, 41, 53, 71, 46, 41, 61, 29, 10] ~ init-ir-count:4682.000 ~ geo:1.808 ~ arith:44.7%
+Online generator://csmith-v0/1378223911 ~ [111, 36, 53, 41, 53, 57, 47, 10, 71, 41, 97, 53, 65, 47, 10, 26, 105, 53] ~ init-ir-count:4924.000 ~ geo:1.449 ~ arith:31.0%
+Online generator://csmith-v0/1521592211 ~ [111, 36, 53, 71, 97, 55, 41, 47, 77, 53, 39, 41, 46, 10, 53] ~ init-ir-count:11305.000 ~ geo:1.349 ~ arith:25.9%
+Online generator://csmith-v0/1554114601 ~ [71, 111, 53, 10, 47, 10, 21, 41, 102, 29, 40] ~ init-ir-count:1998.000 ~ geo:1.576 ~ arith:36.6%
+Online generator://csmith-v0/1576595486 ~ [71, 61, 97, 10, 47, 41, 111, 55, 53, 71, 10, 47, 41, 111, 26, 23, 102, 24, 40, 10, 21, 29] ~ init-ir-count:5366.000 ~ geo:1.134 ~ arith:11.8%
+Online generator://csmith-v0/1602579150 ~ [36, 53, 71, 97, 55, 41, 111, 36, 53, 10, 21, 29, 39, 41, 53, 57, 47, 10, 26, 21] ~ init-ir-count:8565.000 ~ geo:1.221 ~ arith:18.1%
+Online generator://csmith-v0/1637561902 ~ [71, 102, 29, 40, 39, 53, 10] ~ init-ir-count:196.000 ~ geo:1.409 ~ arith:29.0%
+Online generator://csmith-v0/1758108424 ~ [111, 36, 53, 39, 41, 53, 36, 41, 47, 10, 29] ~ init-ir-count:15264.000 ~ geo:5.583 ~ arith:82.1%
+Online generator://csmith-v0/1994433980 ~ [102, 53, 71, 111, 41, 53, 21, 29, 57, 47, 10, 53] ~ init-ir-count:880.000 ~ geo:1.785 ~ arith:44.0%
+Online generator://csmith-v0/2253326951 ~ [36, 111, 1, 55, 53, 71, 47, 41, 111, 36, 53, 10, 39, 41, 53, 55, 10, 41, 57, 47, 61, 8, 10, 26, 53] ~ init-ir-count:16508.000 ~ geo:5.802 ~ arith:82.8%
+Online generator://csmith-v0/2314636311 ~ [53, 111, 39, 46, 41, 71, 53, 47, 10, 102, 53, 46, 40, 21, 29] ~ init-ir-count:8050.000 ~ geo:1.206 ~ arith:17.1%
+Online generator://csmith-v0/2573915800 ~ [71, 111, 53, 21, 41, 29, 46, 10, 23, 102, 24, 40] ~ init-ir-count:1726.000 ~ geo:1.303 ~ arith:23.2%
+Online generator://csmith-v0/2606446359 ~ [111, 97, 36, 53, 71, 10, 39, 41, 53, 57, 47, 10, 26, 21, 53] ~ init-ir-count:4384.000 ~ geo:1.540 ~ arith:35.1%
+Online generator://csmith-v0/2615742762 ~ [36, 111, 1, 41, 53, 47, 10] ~ init-ir-count:112.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://csmith-v0/26225460 ~ [102, 53, 71, 39, 41, 53, 10] ~ init-ir-count:262.000 ~ geo:1.274 ~ arith:21.5%
+Online generator://csmith-v0/2625696254 ~ [71, 41, 111, 53, 10, 21, 41, 102, 29, 40] ~ init-ir-count:2007.000 ~ geo:1.390 ~ arith:28.0%
+Online generator://csmith-v0/2707207435 ~ [111, 41, 36, 53, 10, 71, 53, 41, 26, 21, 47, 10, 29] ~ init-ir-count:8057.000 ~ geo:1.156 ~ arith:13.5%
+Online generator://csmith-v0/27465663 ~ [39, 57, 26, 111, 36, 53, 39, 41, 53, 57, 47, 10, 26, 36, 53, 71, 97, 55, 41, 10, 26, 53] ~ init-ir-count:7617.000 ~ geo:1.162 ~ arith:13.9%
+Online generator://csmith-v0/2857743265 ~ [102, 53, 71, 111, 41, 39, 10, 53, 21, 29] ~ init-ir-count:1199.000 ~ geo:2.080 ~ arith:51.9%
+Online generator://csmith-v0/2909616471 ~ [36, 71, 97, 41, 111, 53, 10, 21, 97, 57, 53, 65, 47, 41, 53, 61, 10, 26, 29, 10] ~ init-ir-count:3022.000 ~ geo:1.173 ~ arith:14.8%
+Online generator://csmith-v0/3022203750 ~ [71, 61, 47, 41, 111, 55, 53, 71, 41, 111, 53, 21, 47, 10, 102, 29, 40] ~ init-ir-count:1351.000 ~ geo:1.733 ~ arith:42.3%
+Online generator://csmith-v0/3210862225 ~ [53, 71, 41, 111, 57, 53, 10, 21, 47, 23, 102, 24, 40, 97, 10, 26, 59, 53] ~ init-ir-count:1459.000 ~ geo:1.701 ~ arith:41.2%
+Online generator://csmith-v0/3283422940 ~ [71, 102, 29, 40, 39, 53, 10] ~ init-ir-count:215.000 ~ geo:1.239 ~ arith:19.3%
+Online generator://csmith-v0/3350094890 ~ [36, 53, 71, 111, 10, 41, 36, 39, 41, 53, 57, 47, 10, 26, 41, 53, 1, 41, 39] ~ init-ir-count:7425.000 ~ geo:1.089 ~ arith:8.2%
+Online generator://csmith-v0/3379636795 ~ [111, 71, 39, 111, 36, 53, 21, 97, 10, 39, 41, 53, 47, 10, 26, 39, 97, 41, 53] ~ init-ir-count:14229.000 ~ geo:1.131 ~ arith:11.6%
+Online generator://csmith-v0/3384762811 ~ [71, 61, 111, 36, 53, 10, 39, 53, 36, 61, 1, 47, 57, 47, 65, 61, 21, 53, 41, 97, 10, 26, 53, 59, 53, 47, 10, 102, 29, 40] ~ init-ir-count:24182.000 ~ geo:1.519 ~ arith:34.1%
+Online generator://csmith-v0/3453454766 ~ [36, 111, 55, 53, 71, 97, 10, 41, 111, 57, 65, 61, 53, 47, 10, 36, 53, 10, 39, 53, 41, 26, 21, 47, 10, 53, 30] ~ init-ir-count:17751.000 ~ geo:1.059 ~ arith:5.6%
+Online generator://csmith-v0/3538049179 ~ [111, 36, 46, 55, 53, 71, 47, 41, 53, 65, 111, 41, 39, 10, 97, 10, 26, 41, 36, 10, 57, 29, 53, 21, 47, 10, 53, 21] ~ init-ir-count:29233.000 ~ geo:1.202 ~ arith:16.8%
+Online generator://csmith-v0/3625427201 ~ [71, 41, 111, 53, 47, 10, 21, 41, 102, 29, 40] ~ init-ir-count:912.000 ~ geo:1.559 ~ arith:35.9%
+Online generator://csmith-v0/3752319932 ~ [53, 71, 111, 41, 39, 10, 102, 97, 40] ~ init-ir-count:959.000 ~ geo:1.608 ~ arith:37.8%
+Online generator://csmith-v0/3764884680 ~ [71, 111, 53, 10, 102, 97, 40] ~ init-ir-count:249.000 ~ geo:1.210 ~ arith:17.4%
+Online generator://csmith-v0/3917963312 ~ [71, 102, 29, 40, 39, 53, 10] ~ init-ir-count:252.000 ~ geo:1.142 ~ arith:12.4%
+Online generator://csmith-v0/3996890171 ~ [26, 111, 36, 53, 71, 41, 21, 39, 41, 53, 57, 47, 10, 26, 21] ~ init-ir-count:3437.000 ~ geo:1.254 ~ arith:20.3%
+Online generator://csmith-v0/3999355981 ~ [53, 111, 46, 41, 102, 53, 71, 40, 61, 39, 46, 10] ~ init-ir-count:1340.000 ~ geo:1.491 ~ arith:32.9%
+Online generator://csmith-v0/4111578293 ~ [102, 53, 71, 111, 41, 39, 10, 23, 53, 21, 29] ~ init-ir-count:2163.000 ~ geo:1.420 ~ arith:29.6%
+Online generator://csmith-v0/4155999894 ~ [111, 71, 39, 53, 57, 47, 10, 21, 41, 102, 29, 40] ~ init-ir-count:1766.000 ~ geo:1.354 ~ arith:26.1%
+Online generator://csmith-v0/4201530335 ~ [111, 71, 46, 53, 41, 23, 102, 24, 40, 10, 39, 21, 53] ~ init-ir-count:2891.000 ~ geo:1.261 ~ arith:20.7%
+Online generator://csmith-v0/4234775438 ~ [53, 71, 111, 53, 47, 10, 21, 41, 102, 29, 40] ~ init-ir-count:1633.000 ~ geo:1.183 ~ arith:15.5%
+Online generator://csmith-v0/4256469312 ~ [111, 71, 46, 36, 39, 53, 41, 53, 26, 97, 47, 10, 41, 53, 21, 29] ~ init-ir-count:5267.000 ~ geo:1.211 ~ arith:17.4%
+Online generator://csmith-v0/4258736787 ~ [36, 53, 71, 97, 55, 111, 53, 47, 10, 77, 36, 39, 41, 57, 21, 47, 8, 55, 97, 53, 10, 26, 97, 41, 10, 53] ~ init-ir-count:23070.000 ~ geo:18.263 ~ arith:94.5%
+Online generator://csmith-v0/522010407 ~ [53, 71, 111, 39, 53, 102, 29, 41, 57, 47, 10, 21, 29] ~ init-ir-count:2420.000 ~ geo:1.390 ~ arith:28.1%
+Online generator://csmith-v0/538204648 ~ [53, 71, 97, 55, 10, 36, 111, 1, 39, 41, 53, 57, 47, 10, 26, 41, 53, 10, 21, 47, 10, 53] ~ init-ir-count:19259.000 ~ geo:1.272 ~ arith:21.4%
+Online generator://csmith-v0/550186403 ~ [36, 53, 71, 55, 41, 111, 97, 65, 41, 39, 10, 53, 47, 10, 21, 36, 71, 97, 55, 41, 26, 53, 46, 10] ~ init-ir-count:22085.000 ~ geo:1.049 ~ arith:4.6%
+Online generator://csmith-v0/55052129 ~ [102, 53, 71, 111, 41, 39, 10, 53, 21, 29] ~ init-ir-count:1378.000 ~ geo:1.840 ~ arith:45.6%
+Online generator://csmith-v0/690331965 ~ [53, 111, 46, 10, 71, 61, 46, 46, 10, 26, 23, 102, 24, 40, 29, 46, 46] ~ init-ir-count:1761.000 ~ geo:1.520 ~ arith:34.2%
+Online generator://csmith-v0/915976923 ~ [71, 97, 111, 36, 53, 65, 111, 41, 39, 10, 21, 39, 41, 53, 57, 47, 10, 26, 21] ~ init-ir-count:8455.000 ~ geo:1.472 ~ arith:32.1%
+Online generator://llvm-stress-v0/1047122200 ~ [57, 10, 53] ~ init-ir-count:115.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1101789447 ~ [53, 10] ~ init-ir-count:112.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1153519887 ~ [57, 10, 53] ~ init-ir-count:113.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1176334158 ~ [57, 10, 53] ~ init-ir-count:114.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1410694624 ~ [97, 10, 26] ~ init-ir-count:115.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1457843775 ~ [78, 10, 53, 10] ~ init-ir-count:110.000 ~ geo:1.200 ~ arith:16.7%
+Online generator://llvm-stress-v0/1471536128 ~ [53, 10] ~ init-ir-count:112.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1518186300 ~ [46, 29] ~ init-ir-count:115.000 ~ geo:1.125 ~ arith:11.1%
+Online generator://llvm-stress-v0/153453808 ~ [57, 29, 10, 53] ~ init-ir-count:112.000 ~ geo:1.500 ~ arith:33.3%
+Online generator://llvm-stress-v0/1544038633 ~ [39, 41, 53, 57, 10, 26] ~ init-ir-count:111.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1590139311 ~ [57, 29, 10, 53] ~ init-ir-count:109.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1685346144 ~ [53, 10] ~ init-ir-count:117.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1742289618 ~ [111, 97, 10] ~ init-ir-count:114.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1749747563 ~ [57, 29, 10, 53] ~ init-ir-count:114.000 ~ geo:2.000 ~ arith:50.0%
+Online generator://llvm-stress-v0/1769730033 ~ [53, 10] ~ init-ir-count:120.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1783847675 ~ [53, 10] ~ init-ir-count:114.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1799737539 ~ [39, 53, 10] ~ init-ir-count:113.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1845250285 ~ [53, 10] ~ init-ir-count:120.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/1952383666 ~ [53, 10] ~ init-ir-count:118.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/2225957790 ~ [39, 53, 10] ~ init-ir-count:116.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/2297078042 ~ [29, 53, 10] ~ init-ir-count:112.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/2317198512 ~ [39, 53, 10] ~ init-ir-count:111.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/2494536001 ~ [39, 10, 53] ~ init-ir-count:120.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/2533145096 ~ [53, 10, 26] ~ init-ir-count:111.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/2796410331 ~ [57, 10, 53] ~ init-ir-count:106.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3149374411 ~ [57, 10, 53] ~ init-ir-count:125.000 ~ geo:1.500 ~ arith:33.3%
+Online generator://llvm-stress-v0/3197998460 ~ [53, 10, 97] ~ init-ir-count:115.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/336565840 ~ [39, 41, 53, 57, 47, 10] ~ init-ir-count:116.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3371092533 ~ [97, 53, 10] ~ init-ir-count:116.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3493298973 ~ [39, 53, 10] ~ init-ir-count:113.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3503829880 ~ [53, 10] ~ init-ir-count:117.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3732383974 ~ [53, 10, 97] ~ init-ir-count:119.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3789485528 ~ [57, 53, 10, 111] ~ init-ir-count:115.000 ~ geo:1.333 ~ arith:25.0%
+Online generator://llvm-stress-v0/3799208760 ~ [57, 10, 53] ~ init-ir-count:117.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/3926672819 ~ [111, 55, 57, 10, 53] ~ init-ir-count:117.000 ~ geo:1.500 ~ arith:33.3%
+Online generator://llvm-stress-v0/40172609 ~ [39, 41, 53, 57, 47, 10] ~ init-ir-count:114.000 ~ geo:1.500 ~ arith:33.3%
+Online generator://llvm-stress-v0/4143427845 ~ [57, 10, 53] ~ init-ir-count:120.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/4193162740 ~ [39, 53, 10] ~ init-ir-count:116.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/4201333941 ~ [9, 55, 53, 10] ~ init-ir-count:111.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/4217453791 ~ [53, 10] ~ init-ir-count:113.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/4233618396 ~ [53, 10] ~ init-ir-count:108.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/430068778 ~ [53, 10] ~ init-ir-count:112.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/48332009 ~ [53, 10] ~ init-ir-count:109.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/519518076 ~ [53, 26, 10, 53] ~ init-ir-count:114.000 ~ geo:1.286 ~ arith:22.2%
+Online generator://llvm-stress-v0/528729216 ~ [39, 10, 53] ~ init-ir-count:113.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/630860266 ~ [53, 10] ~ init-ir-count:119.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/69314060 ~ [39, 53, 10] ~ init-ir-count:121.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/856728497 ~ [53, 10] ~ init-ir-count:120.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/879760502 ~ [53, 10] ~ init-ir-count:115.000 ~ geo:1.000 ~ arith:0.0%
+Online generator://llvm-stress-v0/964228899 ~ [39, 53, 10] ~ init-ir-count:112.000 ~ geo:1.000 ~ arith:0.0%

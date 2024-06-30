@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./../../')
 import copy
 from pathlib import Path
 
