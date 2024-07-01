@@ -16,14 +16,29 @@ We have placed the descriptions of BPC coreset, BPC set, and related passes from
 
 ### 3.1 Environment Setup
 
-To simplify the setup process, we provide a Docker image which you can download from the following link:
+To simplify the setup process, we provide a Docker snapshot which you can download from the following link:
 
-[Download Docker Image](https://link-to-your-docker-image)
+[Download Docker Snapshot](https://drive.google.com/file/d/1rc28Nn5djWyXsuok_obOBlWJ39O_r2M7/view?usp=drive_link
+)
 
-Use the following command to create a Docker container from our provided Docker image:
+Use the following command to create a Docker container from our provided `.zip` file:
+
+First, extract the file to `ebpc4cpo.tar`.
 
 ```sh
-docker run -it --name ebpc4cpo ebpc4cpo
+unzip ebpc4cpo.zip -d YOUR_DIRECTORY
+```
+
+Next, load `ebpc4cpo.tar` as a Docker image.
+
+```sh
+docker import YOUR_DIRECTORY/ebpc4cpo.tar ebpc4cpo
+```
+
+Finally, create a Docker container from the image.
+
+```sh
+docker run -it --name ebpc4cpo ebpc4cpo bash
 ```
 
 We use Conda for Python package management, so after creating the Docker container, please activate the Conda environment with the following command:
