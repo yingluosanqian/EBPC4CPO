@@ -18,8 +18,7 @@ We have placed the descriptions of BPC coreset, BPC set, and related passes from
 
 To simplify the setup process, we provide a Docker snapshot which you can download from the following link:
 
-[Download Docker Snapshot](https://drive.google.com/file/d/1rc28Nn5djWyXsuok_obOBlWJ39O_r2M7/view?usp=drive_link
-)
+[Download Docker Snapshot](https://drive.google.com/file/d/1rc28Nn5djWyXsuok_obOBlWJ39O_r2M7/view?usp=sharing)
 
 Use the following command to create a Docker container from our provided `.zip` file:
 
