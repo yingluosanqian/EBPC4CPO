@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This repository is currently used to store essential materials for our submission to ASPLOS'25.
+This repository is currently used to store essential materials for our submission to CC'25.
 
 ## 2. Result
 
